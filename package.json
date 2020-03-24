@@ -1,0 +1,22 @@
+{
+  "name": "js-sample-app",
+  "version": "1.0.0",
+  "description": "\"A sample app for cutshort nodejs skill analysis\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssaultKoder95/node-js-sample-app.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Abhishek Khanna <abhishekkhanna1995@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AssaultKoder95/node-js-sample-app/issues"
+  },
+  "homepage": "https://github.com/AssaultKoder95/node-js-sample-app#readme"
+}

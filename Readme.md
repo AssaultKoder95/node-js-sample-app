@@ -11,12 +11,13 @@ The structure of the app is as follows:
 
 - index.js ( root file )
 - server
+  - constants
   - controllers
+  - crons
   - middlewares
   - routes
   - tests
   - utils
-  - constants
 
 There is a _`.env.sample`_ file present in the root directory, you can use that to configure your environment variables.
 
